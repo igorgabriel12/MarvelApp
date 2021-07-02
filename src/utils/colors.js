@@ -6,18 +6,18 @@ const common = {
   gainsboro: '#dddddd',
   textPrimary: '#3D3D4D',
   textSecondary: '#B7B7CC',
-  inputBackground: '#F0F0F5'
-}
+  inputBackground: '#F0F0F5',
+};
 
 const primary = {
   black: '#202020',
-  darkRed: '#e62429'
-}
+  darkRed: '#e62429',
+};
 
 const secondary = {
   darkRoyal: '#3c415c',
-  grayScale: '#b4a5a5'
-}
+  grayScale: '#b4a5a5',
+};
 
 const grey = {
   50: '#fafafa',
@@ -35,12 +35,12 @@ const grey = {
   A400: '#303030',
   A700: '#616161',
   A800: '#474747',
-  A900: '#d9dbd7'
-}
+  A900: '#d9dbd7',
+};
 
 export default {
   grey,
   common,
   primary,
-  secondary
-}
+  secondary,
+};
